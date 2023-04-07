@@ -8,6 +8,18 @@ The hackathon requires teams of 5 individuals to develop a web application on to
 
 You can utilize a basic website template and machine learning model provided by the organizers as a starting point for their project which will be judged based on the following criteria:
 
+## Templates for reference:
+
+### Front-end applications
+- [Simple React App](https://github.com/AbhijithGanesh/template-simple-react-app)
+- [Simple TypeScript React App](https://github.com/AbhijithGanesh/template-typescript-app-react)
+
+### Back-end tempaltes:
+- [Flask HTTP server](https://github.com/FidalMathew/GDSC-DeathClock)
+- [FastAPI template]()
+
+## Rubrics and criteria for evaluation
+
 - UI/UX
 - User Experience
 - Frontend Web Development
