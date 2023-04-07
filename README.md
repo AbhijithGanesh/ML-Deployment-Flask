@@ -16,7 +16,7 @@ You can utilize a basic website template and machine learning model provided by 
 
 ### Back-end tempaltes:
 - [Flask HTTP server](https://github.com/FidalMathew/GDSC-DeathClock)
-- [FastAPI template]()
+- [FastAPI template](https://github.com/AbhijithGanesh/back-end-template-fastAPI)
 
 ## Rubrics and criteria for evaluation
 
